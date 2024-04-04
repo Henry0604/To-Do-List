@@ -4,7 +4,7 @@ This repository is part of a school project, aiming to create a small to-do list
 ## Introduction
 This web application was created with the Vue.js framework, which integrates HTML, CSS, and JavaScript technologies to develop a to-do list where you can add, modify, and delete tasks.
 
-<img src="" alt="Inside Job" width="1000" height="500" />
+<img src="https://github.com/Henry0604/To-Do-List/assets/113632465/4e783532-a9c6-4453-a909-b31ad3736b4b" alt="To-do-list" width="1000" height="500" />
 
 ## Technologies used
 
